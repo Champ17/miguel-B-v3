@@ -1,0 +1,10 @@
+.container{
+   border: black;
+   border-style: groove;
+   border-color: black;
+   border-width: thick;
+}
+
+#poke{
+    background: whitesmoke;
+}
